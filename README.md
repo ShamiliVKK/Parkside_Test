@@ -4,6 +4,9 @@ Automation of Metis wiki page using CodeceptJS
 # To run test
 npx codeceptjs run --steps
 
+#Test file
+metis_test.js
+
 # Output
 Metis --
   headings listed in the Contents box are used as headings on the page
